@@ -7,10 +7,7 @@ Check it out: [ModernRetroTech](https://www.youtube.com/c/ModernRetroTech).
 
 Or, take a look [at my blog](https://lakret.net/blog).
 
-You can support me:
-
-- by [sponsoring me on Github](https://github.com/sponsors/Lakret)
-- by getting a mentorship session for you or your team. Please, [contact me](https://lakret.net/) first to confirm availability.
+You can support me by getting a mentorship session for you or your team. Please, [contact me](https://lakret.net/) first to confirm availability.
 
 I also provide consulting services. You can see what I can do for you and contact me with business inquiries:
 
